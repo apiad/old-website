@@ -2,6 +2,7 @@
 permaling: /blog
 has_children: true
 title: Blog
+nav_order: 2
 ---
 
 This blog is a collection of random stuff I like to talk about.
