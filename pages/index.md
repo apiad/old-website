@@ -28,3 +28,16 @@ that might (or not) be interesting for some. I also blog about these from time t
 I recently quit Facebook (yeah!) but I'm sometimes online on [Twitter](https://twitter.com/AlejandroPiad), 
 [LinkedIn](https://linkedin.com/in/apiad) (though I don't update it very much) and
 [Reddit](https://www.reddit.com/user/apiad).
+
+I believe that people are generally good, and if given the chance, they will show the
+better parts of themselves. I'm dedicated to education, because I think that access to
+high-quality, unbiased, and free education is one of the best gifts for anyone.
+I've been lucky to receive great education from a lot of awesome teachers, to whom
+I'll be forever grateful. 
+For these reasons, I share what I know for free, in the hopes someone can find it useful.
+
+I also believe people should have the chance to speak their minds, without being afraid
+to being silenced, or hated, for it, even if they are wrong. 
+And should have the option to recognize their mistakes, learn from them, and be forgiven.
+However, I do not tolerate racism or discrimination of any kind, and work very hard to apply
+those same standards to my own behavior.
