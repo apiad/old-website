@@ -1,5 +1,5 @@
 ---
-permaling: /blog
+permalink: /blog
 has_children: true
 title: Blog
 nav_order: 2
@@ -9,13 +9,13 @@ This blog is a collection of random stuff I like to talk about.
 I blog mainly for fun, with the hope that someone finds something
 I say useful, or interesting, or somehow helpful. 
 
-I mostly blog about [programming stuff](/blog/programming), from
+I mostly blog about [programming stuff](/blog/programming.md), from
 theoretical things I find interesting, to practical stuff that I just learned.
 Some of these posts are tutorial-like, and some are less organized.
 
-Sometimes I also talk about [research](/blog/research),
+Sometimes I also talk about [research](/blog/research.md),
 either my own, or something interesing I discovered or learning recently.
 I also like to comment about the current state of affairs in the topics
 I do research about.
 
-Finally, sometimes I just [brain-dump whatever is on my head](/blog/rants).
+Finally, sometimes I just [brain-dump whatever is on my head](/blog/rants.md).
