@@ -7,7 +7,8 @@ nav_order: 0
 
 My name is Alejandro Piad. I'm a Computer Scientist from Havana, Cuba. 
 I work as instructor (entry-level professor) and researcher at the 
-School of Math and Computer Science, University of Havana.
+[School of Math and Computer Science](http://www.matcom.uh.cu), 
+[University of Havana](http://www.uh.cu).
 
 My research interests include machine learning (shallow and deep), 
 natural language processing, automatic knowledge discovery,
