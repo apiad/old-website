@@ -16,7 +16,7 @@ formal languages and metaheuristics.
 It's kind of a mess but it does let me try different cross-domain ideas.
 
 In my free time I also enjoy coding, playing video games (althought not that much lately),
-and writing. I blog about stuff that interests me, just for the fun of sharing it.
+and writing. I [blog about stuff](/blog) that interests me, just for the fun of sharing it.
 This can be anything from cool stuff I found out how to do (read: code), 
 interesting research that I've read somewhere, or just random ramblings.
 I sometimes blog about pretty technical stuff mainly for students or colleagues
