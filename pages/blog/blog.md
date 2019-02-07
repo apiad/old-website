@@ -3,6 +3,7 @@ permalink: /blog
 has_children: true
 title: Blog
 nav_order: 2
+has_toc: false
 ---
 
 This blog is a collection of random stuff I like to talk about.
